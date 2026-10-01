@@ -82,9 +82,12 @@ Divyansh Mishra
 
 If you like this project, feel free to ⭐ the repository.
 
+This is my Card UI Image
+
 <img width="1920" height="1040" alt="cardUi png" src="https://github.com/user-attachments/assets/ff1cb782-e7dd-45a4-87cf-20ee6234e56f" />
 
-
+#
+This is my Card UI Full screen view
 
 https://github.com/user-attachments/assets/7d9817b0-a2ce-442b-b130-8422358d7e6c
 

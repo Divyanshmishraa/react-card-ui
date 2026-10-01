@@ -61,7 +61,6 @@ npm run dev
 
 Open the local URL shown in your terminal to view the project.
 
-https://github.com/user-attachments/assets/9415967c-4f4b-4bdd-84ff-c503ca991f9a
 
 
 
